@@ -30,7 +30,7 @@ class Question1 {
     }
 
     public static void main(String[] args) {
-        Solution obj = new Solution();
+        Question1 obj = new Question1();
 
         String s = "abciiidef";
         int k = 3;
